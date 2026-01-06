@@ -12,6 +12,8 @@ HEADERS = {
     "User-Agent": "EventListerBot/0.1 (educational prototype)"
 }
 
+# python
+
 # ----------------------------
 # Fetch page (handle redirects)
 # ----------------------------
